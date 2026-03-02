@@ -35,7 +35,7 @@ projet-bac-prociel/
 
 | Maquette | Description | Dossier |
 |----------|-------------|---------|
-| Maquette 1 | *(à renseigner)* | [maquette-1/](./maquette-1/) |
+| Maquette 1 | Jeu Pong — Arduino UNO, 8×MAX7219 (32×16), 2×HC-SR04, LCD2004, buzzer | [maquette-1/](./maquette-1/) |
 | Maquette 2 | *(à renseigner)* | [maquette-2/](./maquette-2/) |
 | Maquette 3 | *(à renseigner)* | [maquette-3/](./maquette-3/) |
 | Maquette 4 | *(à renseigner)* | [maquette-4/](./maquette-4/) |

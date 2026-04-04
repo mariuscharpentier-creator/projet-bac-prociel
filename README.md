@@ -8,6 +8,6 @@ Vous trouverez dans ce repos documentation, programme, vidéo et photo concernan
 
 
 
-> Bonne lecture et que votre travail aussi futile puisse vous faire réussir de grandes choses
+> Bonne lecture et que votre travail aussi futile qu'il soit puisse vous faire réussir de grandes choses
 
 **Marius CHARPENTIER**

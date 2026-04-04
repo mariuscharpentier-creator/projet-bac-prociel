@@ -18,8 +18,6 @@ Notre projet est une maquette éducative et facilement transportable composée d
 
 Ce sont 4 petits montages électroniques basés sur Arduino et programmés en C++, accompagnés de leur schéma électrique faits sur Easy EDA ainsi que photos et vidéos.
 
-
-
 ### Reflex
 
 Ce dernier est constitué d'un Arduino Uno, d'un bouton poussoir, d'une LED, d'une résistance 100 ohms, d'un buzzer, d'un écran LCD 2x16 monté sur un I2C.
@@ -30,7 +28,6 @@ Le but de ce dernier est que lorsqu'on entend le bruit et qu'on voit la LED s'al
 - 🖼️ [shema png](Schéma-reflex.png)
 - 💻 [Programme Arduino](reflex/reflex.ino)
 
-  
 ### Jauge de mesure
 
 *(à compléter)*

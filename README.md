@@ -24,9 +24,9 @@ Ce dernier est constitué d'un Arduino Uno, d'un bouton poussoir, d'une LED, d'u
 
 Le but de ce dernier est que lorsqu'on entend le bruit et qu'on voit la LED s'allumer alors on doit appuyer sur le bouton, le temps s'affiche sur l'écran LCD.
 
-- 📄 `Schéma-reflex.json` (schéma Easy EDA)
-- 🖼️ `Schéma-reflex.png`
-
+- 📄 [schéma Easy EDA](Schéma-reflex.json)
+- 🖼️ [shema png](Schéma-reflex.png)
+- 💻 [Programme Arduino](reflex/reflex.ino)
 ### Jauge de mesure
 
 *(à compléter)*

@@ -1,6 +1,6 @@
 # Projet Bac Pro CIEL
 
-Bonjour et bienvenu sur ce repo qui parle de notre projet de terminale bac pro au lycée saint joseph la salle VANNES, ceci sert de support pour montrer notre engagement et également d'aider les futures terminales qui seraient confrontées au même projet et aux mêmes difficultés.
+Bonjour et bienvenu sur ce repo qui parle de notre projet de terminale bac pro **CIEL** au **lycée saint joseph la salle VANNES**, ceci sert de support pour montrer notre engagement et également d'aider les futures terminales qui seraient confrontées au même projet et aux mêmes difficultés.
 
 ## Contenu
 

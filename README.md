@@ -16,7 +16,7 @@ Notre projet est une maquette éducative et facilement transportable composée d
 
 ## Nos maquettes
 
-Ce sont 4 petits montages électroniques basés sur Arduino et programmés en C++, accompagnés de leur schéma électrique faits sur Easy EDA ainsi que photos et vidéos.
+Ce sont 4 petits montages électroniques basés sur Arduino et programmés en C++, accompagnés de leur schéma électrique faits sur Easy EDA ainsi que des photos et des vidéos.
 
 ### Reflex
 

@@ -26,11 +26,15 @@ Ce sont 4 petits montages électroniques basés sur un Arduino et programmés en
 
 Ce dernier est constitué d'un Arduino NANO, d'un bouton poussoir, d'une LED, d'une résistance 100 ohms, d'un buzzer, d'un écran LCD 2x16 monté sur un I2C.
 
-Comment marche-t-il ?
+#### Comment marche-t-il ?
 
-Lorsque vous entendez le bruit et que vous voyez la LED s'allumer, alors vous pouvez appuyer sur le bouton.
+Au lancement du programme, un message s'affiche sur l'écran LCD afin d'inviter l'utilisateur à appuyer sur le bouton pour démarrer le test.
 
-Le temps en microseconde s'affiche sur l'écran LCD.
+Une fois le bouton pressé, le système attend un délai aléatoire compris entre 3 s et 5 s.
+
+Lorsque la LED s'allume et que le buzzer retentit, l'utilisateur doit appuyer le plus rapidement possible sur le bouton.
+
+Le temps de réaction est ensuite calculé en millisecondes et affiché sur l'écran LCD.
 
 - 📄 [Schéma Easy EDA](Schéma-reflex.json)
 - 🖼️ [Schéma PNG](Schéma-reflex.png)

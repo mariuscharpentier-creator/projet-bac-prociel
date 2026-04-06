@@ -2,7 +2,7 @@
 
 Bonjour et bienvenu.
 
-Ceci est notre repository GitHub qui parle de notre projet de terminale bac pro CIEL au lycée Saint-Joseph La Salle VANNES.
+Ceci est notre repository GitHub qui parle de notre projet de terminale bac pro CIEL au lycée Saint-Joseph La Salle à VANNES.
 
 Cela sert de support pour montrer notre engagement et également d'aider les futurs élèves qui seraient confrontés au même projet et aux mêmes difficultés.
 

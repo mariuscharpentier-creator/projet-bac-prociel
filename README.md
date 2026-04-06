@@ -38,7 +38,7 @@ Le temps de réaction est ensuite calculé en millisecondes et affiché sur l'é
 
 - 📄 [Schéma Easy EDA](Schéma-reflex.json)
 - 🖼️ [Schéma PNG](Schéma-reflex.png)
-- 💻 [Programme Arduino](reflex/reflex.ino)
+- 💻 [Programme cpp](programme-reflex.cpp)
 
 ### Jauge de mesure
 

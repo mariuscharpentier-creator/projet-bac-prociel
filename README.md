@@ -24,11 +24,13 @@ Ce sont 4 petits montages électroniques basés sur un Arduino et programmés en
 
 ### Reflex
 
-Ce dernier est constitué d'un Arduino UNO, d'un bouton poussoir, d'une LED, d'une résistance 100 ohms, d'un buzzer, d'un écran LCD 2x16 monté sur un I2C.
+Ce dernier est constitué d'un Arduino NANO, d'un bouton poussoir, d'une LED, d'une résistance 100 ohms, d'un buzzer, d'un écran LCD 2x16 monté sur un I2C.
 
 Comment marche-t-il ?
 
-Lorsque vous entendez le bruit et que vous voyez la LED s'allumer, alors vous pouvez appuyer sur le bouton : le temps en microseconde s'affiche sur l'écran LCD.
+Lorsque vous entendez le bruit et que vous voyez la LED s'allumer, alors vous pouvez appuyer sur le bouton.
+
+Le temps en microseconde s'affiche sur l'écran LCD.
 
 - 📄 [Schéma Easy EDA](Schéma-reflex.json)
 - 🖼️ [Schéma PNG](Schéma-reflex.png)

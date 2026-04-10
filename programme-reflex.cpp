@@ -22,8 +22,8 @@ LiquidCrystal_I2C lcd(0x27, 16, 2);
 // Définition des broches
 // -----------------------------------------------------------------------------
 const int PIN_BOUTON = 7;   // bouton poussoir
-const int PIN_LED = 8;      // LED
-const int PIN_BUZZER = 9;   // buzzer
+const int PIN_LED = 1;      // LED
+const int PIN_BUZZER = 2;   // buzzer
 
 // Variables pour mesurer le temps
 unsigned long tempsDepart = 0;

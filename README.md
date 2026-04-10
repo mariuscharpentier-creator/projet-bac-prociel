@@ -8,7 +8,7 @@ Cela sert de support pour montrer notre engagement et également d'aider les fut
 
 > Bonne lecture et que votre travail aussi futile qu'il soit puisse vous faire réussir de grandes choses.
 
-**Marius CHARPENTIER**
+**Marius CHARPENTIER Quentin Debroize Enzo Bermond Ozwan Le-Priol**
 
 ---
 

@@ -37,7 +37,7 @@ Lorsque la LED s'allume et que le buzzer retentit, l'utilisateur doit appuyer le
 Le temps de réaction est ensuite calculé en millisecondes et affiché sur l'écran LCD.
 
 - 📄 [Schéma Easy EDA](Schéma-reflex.json)
-- 🖼️ [Schéma PNG](Schéma-reflex.png)
+- 🖼️ [Schéma PNG](Schematic_Schema-reflex.png)
 - 💻 [Programme cpp](programme-reflex.cpp)
 
 ### Jauge de mesure

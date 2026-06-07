@@ -16,7 +16,7 @@
 | Marius Charpentier | Chef de projet / Développeur |
 
 > 📅 Projet réalisé de **novembre 2025** à **juin 2026** — 1h/semaine  
-> 🏫 [ Nom du Lycée ]
+> 🏫 Lycée pro saint joseph la salle Vannes
 
 ---
 

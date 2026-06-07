@@ -193,4 +193,4 @@ Ce projet a été réalisé dans le cadre du **Bac Pro CIEL** pour présenter la
 
 ## 📄 Licence
 
-Projet réalisé à des fins pédagogiques — [ Nom du Lycée ] — 2025/2026
+Projet réalisé à des fins pédagogiques — Saint joseph la salle Vannes lycée pro — 2025/2026
